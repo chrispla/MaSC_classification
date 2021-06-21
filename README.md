@@ -1,5 +1,7 @@
 # Classification of Eisenberg and Arab Mashriq Collections
 
+Experiments on classifying the two collections based on audio features
+
 ### Dataset 
 
 **2766** songs (considering all excerpts with a duration of 15 seconds)
